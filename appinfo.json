@@ -1,0 +1,22 @@
+{
+  "uuid": "d644f77c-2435-49d6-85f0-b7d6df2a2691",
+  "shortName": "XperienceEnhanced2",
+  "longName": "XperienceEnhanced2",
+  "companyName": "Procrash (procrash at neusob.de)",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false 
+  },
+  "capabilities": ["configurable"],
+  "appKeys": {
+    "bluetoothSymbol": 0,
+    "batterySymbol": 1,
+	"clockStyle": 2,
+    "digitSize": 3,
+    "spaceBetweenDigits": 4
+  },
+  "resources": {
+    "media": []
+  }
+}
