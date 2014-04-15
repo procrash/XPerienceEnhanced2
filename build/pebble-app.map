@@ -1,0 +1,1002 @@
+Archive member included because of file (symbol)
+
+/Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                              src/XPerienceEnhanced2.c.7.o (app_comm_set_sniff_interval)
+/Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+                              src/XPerienceEnhanced2.c.7.o (__aeabi_dsub)
+/Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+                              src/XPerienceEnhanced2.c.7.o (__aeabi_dcmplt)
+/Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+                              src/XPerienceEnhanced2.c.7.o (__aeabi_d2iz)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .bss           0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .init          0x0000000000000000        0x4 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .fini          0x0000000000000000        0x4 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .text          0x0000000000000000       0xc8 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .bss           0x0000000000000000       0x1c /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .jcr           0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .text          0x0000000000000000        0x0 src/XPerienceEnhanced2.c.7.o
+ .bss           0x0000000000000000        0x0 src/XPerienceEnhanced2.c.7.o
+ .text.messageSendFailed
+                0x0000000000000000       0x1c src/XPerienceEnhanced2.c.7.o
+ .text.messageSent
+                0x0000000000000000       0x1c src/XPerienceEnhanced2.c.7.o
+ .text.back_long_click_handler
+                0x0000000000000000       0x1c src/XPerienceEnhanced2.c.7.o
+ .rodata.NR_DIGITS_DEFINED
+                0x0000000000000000        0x4 src/XPerienceEnhanced2.c.7.o
+ .rodata.NR_LINES_DEFINED
+                0x0000000000000000        0x4 src/XPerienceEnhanced2.c.7.o
+ .rodata.NR_FACES_CALCULATED
+                0x0000000000000000        0x4 src/XPerienceEnhanced2.c.7.o
+ .rodata.SCREEN_HEIGHT
+                0x0000000000000000        0x4 src/XPerienceEnhanced2.c.7.o
+ .rodata.NR_FACES_DEFINED
+                0x0000000000000000        0x4 src/XPerienceEnhanced2.c.7.o
+ .rodata.SCREEN_WIDTH
+                0x0000000000000000        0x4 src/XPerienceEnhanced2.c.7.o
+ .text          0x0000000000000000        0x0 appinfo.auto.c.7.o
+ .bss           0x0000000000000000        0x0 appinfo.auto.c.7.o
+ .bss           0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.accel_data_service_subscribe__deprecated
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.accel_data_service_unsubscribe
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.accel_service_peek
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.accel_service_set_samples_per_update
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.accel_service_set_sampling_rate
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.accel_tap_service_subscribe
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.accel_tap_service_unsubscribe
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.action_bar_layer_add_to_window
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.action_bar_layer_clear_icon
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.action_bar_layer_create
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.action_bar_layer_destroy
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.action_bar_layer_get_layer
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.action_bar_layer_remove_from_window
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.action_bar_layer_set_background_color
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.action_bar_layer_set_click_config_provider
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.action_bar_layer_set_context
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.action_bar_layer_set_icon
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.animation_create
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.animation_destroy
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.animation_get_context
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.animation_is_scheduled
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.animation_schedule
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.animation_set_curve
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.animation_set_delay
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.animation_set_duration
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.animation_set_handlers
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.animation_set_implementation
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.animation_unschedule
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.animation_unschedule_all
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_comm_get_sniff_interval
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_message_deregister_callbacks
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_sync_deinit
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_sync_get
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_sync_init
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_sync_set
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_timer_reschedule
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.atan2_lookup
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.atoi     0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.atol     0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.bitmap_layer_create
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.bitmap_layer_destroy
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.bitmap_layer_get_layer
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.bitmap_layer_set_alignment
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.bitmap_layer_set_background_color
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.bitmap_layer_set_bitmap
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.bitmap_layer_set_compositing_mode
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.click_number_of_clicks_counted
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.click_recognizer_get_button_id
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.clock_copy_time_string
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.clock_is_24h_style
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.cos_lookup
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.data_logging_create
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.data_logging_finish
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.data_logging_log
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_calc_buffer_size
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_calc_buffer_size_from_tuplets
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_merge
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_read_begin_from_buffer
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_read_first
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_read_next
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_serialize_tuplets
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_serialize_tuplets_to_buffer__deprecated
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_serialize_tuplets_to_buffer_with_iter
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_write_begin
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_write_cstring
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_write_data
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_write_end
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_write_int
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_write_int16
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_write_int32
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_write_int8
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_write_uint16
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_write_uint32
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_write_uint8
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.fonts_get_system_font
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.fonts_load_custom_font
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.fonts_unload_custom_font
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.free     0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.gbitmap_create_as_sub_bitmap
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.gbitmap_create_with_data
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.gbitmap_create_with_resource
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.gbitmap_destroy
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.gmtime   0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.gpath_move_to
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.gpath_rotate_to
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.gpoint_equal
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.graphics_context_set_compositing_mode
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.graphics_context_set_text_color
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.graphics_draw_bitmap_in_rect
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.graphics_draw_circle
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.graphics_draw_line
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.graphics_draw_pixel
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.graphics_draw_round_rect
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.graphics_fill_circle
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.graphics_text_layout_get_max_used_size
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.grect_align
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.grect_center_point
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.grect_clip
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.grect_contains_point
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.grect_crop
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.grect_equal
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.grect_is_empty
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.grect_standardize
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.gsize_equal
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.inverter_layer_create
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.inverter_layer_destroy
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.inverter_layer_get_layer
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_create_with_data
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_get_clips
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_get_data
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_get_frame
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_get_hidden
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_get_window
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_insert_above_sibling
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_insert_below_sibling
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_remove_child_layers
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_remove_from_parent
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_set_bounds
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_set_clips
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_set_frame
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.layer_set_hidden
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.light_enable
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.light_enable_interaction
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.localtime
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.malloc   0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.memcpy   0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.memmove  0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_cell_basic_draw
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_cell_basic_header_draw
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_cell_title_draw
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_index_compare
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_layer_create
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_layer_destroy
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_layer_get_layer
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_layer_get_scroll_layer
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_layer_get_selected_index
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_layer_reload_data
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_layer_set_callbacks
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_layer_set_click_config_onto_window
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_layer_set_selected_index
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.menu_layer_set_selected_next
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.number_window_create
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.number_window_destroy
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.number_window_get_value
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.number_window_set_label
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.number_window_set_max
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.number_window_set_min
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.number_window_set_step_size
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.number_window_set_value
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_delete
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_exists
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_get_size
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_read_bool
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_read_data__deprecated
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_read_int
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_read_string__deprecated
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_write_bool
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_write_data__deprecated
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_write_int
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_write_string
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.property_animation_create
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.property_animation_create_layer_frame
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.property_animation_destroy
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.property_animation_update_gpoint
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.property_animation_update_grect
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.property_animation_update_int16
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.psleep   0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.rand     0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.resource_get_handle
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.resource_load
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.resource_load_byte_range
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.resource_size
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.rot_bitmap_layer_create
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.rot_bitmap_layer_destroy
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.rot_bitmap_layer_increment_angle
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.rot_bitmap_layer_set_angle
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.rot_bitmap_layer_set_corner_clip_color
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.rot_bitmap_set_compositing_mode
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.rot_bitmap_set_src_ic
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_add_child
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_create
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_destroy
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_get_content_offset
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_get_content_size
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_get_layer
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_get_shadow_hidden
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_scroll_down_click_handler
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_scroll_up_click_handler
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_set_callbacks
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_set_click_config_onto_window
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_set_content_offset
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_set_content_size
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_set_context
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_set_frame
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.scroll_layer_set_shadow_hidden
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.simple_menu_layer_create
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.simple_menu_layer_destroy
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.simple_menu_layer_get_layer
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.simple_menu_layer_get_selected_index
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.simple_menu_layer_set_selected_index
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.sin_lookup
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.snprintf
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.srand    0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.strcat   0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.strcmp   0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.strcpy   0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.strftime
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.strlen   0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.strncat  0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.strncmp  0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.strncpy  0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.text_layer_create
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.text_layer_destroy
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.text_layer_get_content_size
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.text_layer_get_layer
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.text_layer_get_text
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.text_layer_set_background_color
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.text_layer_set_font
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.text_layer_set_overflow_mode
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.text_layer_set_size
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.text_layer_set_text
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.text_layer_set_text_alignment
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.text_layer_set_text_color
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.time     0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.time_ms  0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.vibes_cancel
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.vibes_double_pulse
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.vibes_enqueue_custom_pattern
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.vibes_long_pulse
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.vibes_short_pulse
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_get_click_config_provider
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_get_fullscreen
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_is_loaded
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_set_click_config_provider_with_context
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_set_status_bar_icon
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_stack_contains_window
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_stack_get_top_window
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_stack_pop
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_stack_pop_all
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_stack_remove
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_focus_service_subscribe
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_focus_service_unsubscribe
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_get_user_data
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_set_user_data
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_message_get_context
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_message_inbox_size_maximum
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_message_outbox_size_maximum
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_message_register_inbox_dropped
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_message_register_outbox_failed
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_message_register_outbox_sent
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.app_message_set_context
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_long_click_subscribe
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_multi_click_subscribe
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_raw_click_subscribe
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.window_set_click_context
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.graphics_draw_text
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_serialize_tuplets_to_buffer
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_read_data
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_read_string
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.persist_write_data
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.dict_size
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.graphics_text_layout_get_content_size
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.simple_menu_layer_get_menu_layer
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.accel_data_service_subscribe
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.calloc   0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text.bitmap_layer_get_bitmap
+                0x0000000000000000        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .bss           0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+ .text          0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .bss           0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .jcr           0x0000000000000000        0x4 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .text          0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .bss           0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .init          0x0000000000000000        0x8 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .fini          0x0000000000000000        0x8 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+APP              0x0000000000000000 0x0000000000006000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+LOAD /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+LOAD src/XPerienceEnhanced2.c.7.o
+LOAD appinfo.auto.c.7.o
+LOAD /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a
+START GROUP
+LOAD /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a
+LOAD /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/../../../../arm-none-eabi/lib/thumb2/libc.a
+END GROUP
+LOAD /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+LOAD /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+
+.header         0x0000000000000000       0x82
+ *(.pbl_header)
+ .pbl_header    0x0000000000000000       0x82 appinfo.auto.c.7.o
+                0x0000000000000000                __pbl_app_info
+
+.text           0x0000000000000088     0x1500
+ *(.text)
+ .text          0x0000000000000088       0x14 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .text          0x000000000000009c      0x370 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+                0x000000000000009c                __aeabi_drsub
+                0x00000000000000a4                __subdf3
+                0x00000000000000a4                __aeabi_dsub
+                0x00000000000000a8                __aeabi_dadd
+                0x00000000000000a8                __adddf3
+                0x0000000000000320                __aeabi_ui2d
+                0x0000000000000320                __floatunsidf
+                0x0000000000000340                __floatsidf
+                0x0000000000000340                __aeabi_i2d
+                0x0000000000000364                __extendsfdf2
+                0x0000000000000364                __aeabi_f2d
+                0x00000000000003a0                __aeabi_ul2d
+                0x00000000000003a0                __floatundidf
+                0x00000000000003b0                __aeabi_l2d
+                0x00000000000003b0                __floatdidf
+ .text          0x000000000000040c      0x110 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+                0x000000000000040c                __gtdf2
+                0x000000000000040c                __gedf2
+                0x0000000000000414                __ltdf2
+                0x0000000000000414                __ledf2
+                0x000000000000041c                __eqdf2
+                0x000000000000041c                __nedf2
+                0x000000000000041c                __cmpdf2
+                0x0000000000000498                __aeabi_cdrcmple
+                0x00000000000004a8                __aeabi_cdcmple
+                0x00000000000004a8                __aeabi_cdcmpeq
+                0x00000000000004b8                __aeabi_dcmpeq
+                0x00000000000004cc                __aeabi_dcmplt
+                0x00000000000004e0                __aeabi_dcmple
+                0x00000000000004f4                __aeabi_dcmpge
+                0x0000000000000508                __aeabi_dcmpgt
+ .text          0x000000000000051c       0x50 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+                0x000000000000051c                __fixdfsi
+                0x000000000000051c                __aeabi_d2iz
+ *(.text.*)
+ .text.back_single_click_handler
+                0x000000000000056c       0x1c src/XPerienceEnhanced2.c.7.o
+                0x000000000000056c                back_single_click_handler
+ .text.in_received_handler
+                0x0000000000000588       0x28 src/XPerienceEnhanced2.c.7.o
+ .text.handle_bluetooth
+                0x00000000000005b0       0x18 src/XPerienceEnhanced2.c.7.o
+ .text.handle_battery
+                0x00000000000005c8       0x40 src/XPerienceEnhanced2.c.7.o
+ .text.timeChanged
+                0x0000000000000608       0xec src/XPerienceEnhanced2.c.7.o
+                0x0000000000000608                timeChanged
+ .text.window_unload
+                0x00000000000006f4       0x40 src/XPerienceEnhanced2.c.7.o
+ .text.window_load
+                0x0000000000000734       0xec src/XPerienceEnhanced2.c.7.o
+ .text.volume_graphics_proc
+                0x0000000000000820       0x98 src/XPerienceEnhanced2.c.7.o
+ .text.draw_graphics
+                0x00000000000008b8       0xa8 src/XPerienceEnhanced2.c.7.o
+ .text.click_config_provider
+                0x0000000000000960       0x44 src/XPerienceEnhanced2.c.7.o
+                0x0000000000000960                click_config_provider
+ .text.select_single_click_handler
+                0x00000000000009a4       0x44 src/XPerienceEnhanced2.c.7.o
+                0x00000000000009a4                select_single_click_handler
+ .text.bluetooth_update_proc
+                0x00000000000009e8       0x2c src/XPerienceEnhanced2.c.7.o
+ .text.battery_update_proc
+                0x0000000000000a14       0x2c src/XPerienceEnhanced2.c.7.o
+ .text.refreshScreen
+                0x0000000000000a40       0x40 src/XPerienceEnhanced2.c.7.o
+                0x0000000000000a40                refreshScreen
+ .text.hideVolumeBar
+                0x0000000000000a80       0x20 src/XPerienceEnhanced2.c.7.o
+                0x0000000000000a80                hideVolumeBar
+ .text.initiateVolumeHideTimer
+                0x0000000000000aa0       0x34 src/XPerienceEnhanced2.c.7.o
+                0x0000000000000aa0                initiateVolumeHideTimer
+ .text.updatePhoneVolume
+                0x0000000000000ad4       0x34 src/XPerienceEnhanced2.c.7.o
+                0x0000000000000ad4                updatePhoneVolume
+ .text.down_single_click_handler
+                0x0000000000000b08       0x68 src/XPerienceEnhanced2.c.7.o
+                0x0000000000000b08                down_single_click_handler
+ .text.up_single_click_handler
+                0x0000000000000b70       0x68 src/XPerienceEnhanced2.c.7.o
+                0x0000000000000b70                up_single_click_handler
+ .text.startup.main
+                0x0000000000000bd8      0x364 src/XPerienceEnhanced2.c.7.o
+                0x0000000000000bd8                main
+ .text.app_comm_set_sniff_interval
+                0x0000000000000f3c        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000f3c                app_comm_set_sniff_interval
+ .text.app_event_loop
+                0x0000000000000f48        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000f48                app_event_loop
+ .text.app_log  0x0000000000000f54        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000f54                app_log
+ .text.app_message_open
+                0x0000000000000f60        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000f60                app_message_open
+ .text.app_timer_cancel
+                0x0000000000000f6c        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000f6c                app_timer_cancel
+ .text.app_timer_register
+                0x0000000000000f78        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000f78                app_timer_register
+ .text.battery_state_service_peek
+                0x0000000000000f84        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000f84                battery_state_service_peek
+ .text.battery_state_service_subscribe
+                0x0000000000000f90        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000f90                battery_state_service_subscribe
+ .text.battery_state_service_unsubscribe
+                0x0000000000000f9c        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000f9c                battery_state_service_unsubscribe
+ .text.bluetooth_connection_service_peek
+                0x0000000000000fa8        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000fa8                bluetooth_connection_service_peek
+ .text.bluetooth_connection_service_subscribe
+                0x0000000000000fb4        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000fb4                bluetooth_connection_service_subscribe
+ .text.bluetooth_connection_service_unsubscribe
+                0x0000000000000fc0        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000fc0                bluetooth_connection_service_unsubscribe
+ .text.dict_find
+                0x0000000000000fcc        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000fcc                dict_find
+ .text.dict_write_tuplet
+                0x0000000000000fd8        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000fd8                dict_write_tuplet
+ .text.gpath_create
+                0x0000000000000fe4        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000fe4                gpath_create
+ .text.gpath_destroy
+                0x0000000000000ff0        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000ff0                gpath_destroy
+ .text.gpath_draw_filled
+                0x0000000000000ffc        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000ffc                gpath_draw_filled
+ .text.gpath_draw_outline
+                0x0000000000001008        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001008                gpath_draw_outline
+ .text.graphics_context_set_fill_color
+                0x0000000000001014        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001014                graphics_context_set_fill_color
+ .text.graphics_context_set_stroke_color
+                0x0000000000001020        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001020                graphics_context_set_stroke_color
+ .text.graphics_draw_rect
+                0x000000000000102c        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x000000000000102c                graphics_draw_rect
+ .text.graphics_fill_rect
+                0x0000000000001038        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001038                graphics_fill_rect
+ .text.layer_add_child
+                0x0000000000001044        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001044                layer_add_child
+ .text.layer_create
+                0x0000000000001050        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001050                layer_create
+ .text.layer_destroy
+                0x000000000000105c        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x000000000000105c                layer_destroy
+ .text.layer_get_bounds
+                0x0000000000001068        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001068                layer_get_bounds
+ .text.layer_mark_dirty
+                0x0000000000001074        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001074                layer_mark_dirty
+ .text.layer_set_update_proc
+                0x0000000000001080        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001080                layer_set_update_proc
+ .text.memset   0x000000000000108c        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x000000000000108c                memset
+ .text.tick_timer_service_subscribe
+                0x0000000000001098        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001098                tick_timer_service_subscribe
+ .text.tick_timer_service_unsubscribe
+                0x00000000000010a4        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x00000000000010a4                tick_timer_service_unsubscribe
+ .text.window_create
+                0x00000000000010b0        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x00000000000010b0                window_create
+ .text.window_destroy
+                0x00000000000010bc        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x00000000000010bc                window_destroy
+ .text.window_get_root_layer
+                0x00000000000010c8        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x00000000000010c8                window_get_root_layer
+ .text.window_set_background_color
+                0x00000000000010d4        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x00000000000010d4                window_set_background_color
+ .text.window_set_click_config_provider
+                0x00000000000010e0        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x00000000000010e0                window_set_click_config_provider
+ .text.window_set_fullscreen
+                0x00000000000010ec        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x00000000000010ec                window_set_fullscreen
+ .text.window_set_window_handlers
+                0x00000000000010f8        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x00000000000010f8                window_set_window_handlers
+ .text.window_stack_push
+                0x0000000000001104        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001104                window_stack_push
+ .text.app_message_outbox_begin
+                0x0000000000001110        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001110                app_message_outbox_begin
+ .text.app_message_outbox_send
+                0x000000000000111c        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x000000000000111c                app_message_outbox_send
+ .text.app_message_register_inbox_received
+                0x0000000000001128        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001128                app_message_register_inbox_received
+ .text.window_single_click_subscribe
+                0x0000000000001134        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001134                window_single_click_subscribe
+ .text.window_single_repeating_click_subscribe
+                0x0000000000001140        0xc /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000001140                window_single_repeating_click_subscribe
+ *(.rodata)
+ .rodata        0x000000000000114c       0x20 src/XPerienceEnhanced2.c.7.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x000000000000116c      0x116 src/XPerienceEnhanced2.c.7.o
+ *fill*         0x0000000000001282        0x6 
+ .rodata.clockFaces
+                0x0000000000001288      0x300 src/XPerienceEnhanced2.c.7.o
+
+.glue_7         0x0000000000001588        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x0000000000001588        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000001588        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x0000000000001588        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x0000000000001588        0x0
+ .iplt          0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+
+.rel.dyn        0x0000000000001588        0x0
+ .rel.iplt      0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+
+.data           0x0000000000001588      0x2c1
+ *(.data)
+ .data          0x0000000000001588        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .data          0x0000000000001588        0x4 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+                0x0000000000001588                __dso_handle
+ .data          0x000000000000158c        0x0 src/XPerienceEnhanced2.c.7.o
+ .data          0x000000000000158c        0x0 appinfo.auto.c.7.o
+ .data          0x000000000000158c        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .data          0x000000000000158c        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .data          0x000000000000158c        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+ .data          0x000000000000158c        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+ .data          0x000000000000158c        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .data          0x000000000000158c        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ *(.data.*)
+ .data.volume   0x000000000000158c        0x4 src/XPerienceEnhanced2.c.7.o
+ .data.hourDigitsTens
+                0x0000000000001590       0x48 src/XPerienceEnhanced2.c.7.o
+                0x0000000000001590                hourDigitsTens
+ .data.hourDigitsOnes
+                0x00000000000015d8       0xf0 src/XPerienceEnhanced2.c.7.o
+                0x00000000000015d8                hourDigitsOnes
+ .data.minuteDigitsOnes
+                0x00000000000016c8       0xf0 src/XPerienceEnhanced2.c.7.o
+                0x00000000000016c8                minuteDigitsOnes
+ .data.minuteDigitsTens
+                0x00000000000017b8       0x90 src/XPerienceEnhanced2.c.7.o
+                0x00000000000017b8                minuteDigitsTens
+ .data.MODE_VOLUME_SELECTED
+                0x0000000000001848        0x1 src/XPerienceEnhanced2.c.7.o
+
+.igot.plt       0x000000000000184c        0x0
+ .igot.plt      0x0000000000000000        0x0 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+
+.bss            0x000000000000184c      0x348
+ *(.bss)
+ *(.bss.*)
+ .bss.graphics_layer
+                0x000000000000184c        0x4 src/XPerienceEnhanced2.c.7.o
+ .bss.calculatedFaceDigitPaths
+                0x0000000000001850       0x60 src/XPerienceEnhanced2.c.7.o
+ .bss.last_bluetooth
+                0x00000000000018b0        0x1 src/XPerienceEnhanced2.c.7.o
+ *fill*         0x00000000000018b1        0x1 
+ .bss.facesDigitsPoints
+                0x00000000000018b2      0x1e0 src/XPerienceEnhanced2.c.7.o
+ *fill*         0x0000000000001a92        0x2 
+ .bss.battery_layer
+                0x0000000000001a94        0x4 src/XPerienceEnhanced2.c.7.o
+ .bss.window    0x0000000000001a98        0x4 src/XPerienceEnhanced2.c.7.o
+ .bss.disappearVolumeBarTimer
+                0x0000000000001a9c        0x4 src/XPerienceEnhanced2.c.7.o
+                0x0000000000001a9c                disappearVolumeBarTimer
+ .bss.USE_24H_CLOCK
+                0x0000000000001aa0        0x1 src/XPerienceEnhanced2.c.7.o
+ .bss.selectedDigits
+                0x0000000000001aa1       0x18 src/XPerienceEnhanced2.c.7.o
+ *fill*         0x0000000000001ab9        0x3 
+ .bss.lastBatStatSummary
+                0x0000000000001abc        0x4 src/XPerienceEnhanced2.c.7.o
+ .bss.facesDigits
+                0x0000000000001ac0       0xc0 src/XPerienceEnhanced2.c.7.o
+ .bss.debugLayer
+                0x0000000000001b80        0x4 src/XPerienceEnhanced2.c.7.o
+ .bss.bluetooth_layer
+                0x0000000000001b84        0x4 src/XPerienceEnhanced2.c.7.o
+ .bss.debugCtx  0x0000000000001b88        0x4 src/XPerienceEnhanced2.c.7.o
+ .bss.VOLUME_IS_VISIBLE
+                0x0000000000001b8c        0x1 src/XPerienceEnhanced2.c.7.o
+ *fill*         0x0000000000001b8d        0x3 
+ .bss.volume_layer
+                0x0000000000001b90        0x4 src/XPerienceEnhanced2.c.7.o
+
+DISCARD
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+ *(.eh_frame)
+OUTPUT(/Users/wolfgangmeyerle/Documents/PebbleDev/Projects/XPerienceEnhanced2/build/pebble-app.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x27
+ .ARM.attributes
+                0x0000000000000000       0x19 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .ARM.attributes
+                0x0000000000000019       0x29 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .ARM.attributes
+                0x0000000000000042       0x33 src/XPerienceEnhanced2.c.7.o
+ .ARM.attributes
+                0x0000000000000075       0x33 appinfo.auto.c.7.o
+ .ARM.attributes
+                0x00000000000000a8       0x21 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .ARM.attributes
+                0x00000000000000c9       0x19 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000000000e2       0x19 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000000000fb       0x19 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000000000000114       0x29 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .ARM.attributes
+                0x000000000000013d       0x19 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+
+.comment        0x0000000000000000       0x4e
+ .comment       0x0000000000000000       0x4e /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+                                         0x4f (size before relaxing)
+ .comment       0x0000000000000000       0x4f src/XPerienceEnhanced2.c.7.o
+ .comment       0x0000000000000000       0x4f appinfo.auto.c.7.o
+ .comment       0x0000000000000000       0x4f /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+
+.debug_info     0x0000000000000000     0x28bc
+ .debug_info    0x0000000000000000     0x2365 src/XPerienceEnhanced2.c.7.o
+ .debug_info    0x0000000000002365      0x32c appinfo.auto.c.7.o
+ .debug_info    0x0000000000002691       0xb9 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x000000000000274a       0xb9 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+ .debug_info    0x0000000000002803       0xb9 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+
+.debug_abbrev   0x0000000000000000      0x559
+ .debug_abbrev  0x0000000000000000      0x469 src/XPerienceEnhanced2.c.7.o
+ .debug_abbrev  0x0000000000000469       0xb4 appinfo.auto.c.7.o
+ .debug_abbrev  0x000000000000051d       0x14 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x0000000000000531       0x14 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+ .debug_abbrev  0x0000000000000545       0x14 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+
+.debug_loc      0x0000000000000000      0xd9a
+ .debug_loc     0x0000000000000000      0xd9a src/XPerienceEnhanced2.c.7.o
+
+.debug_aranges  0x0000000000000000      0x148
+ .debug_aranges
+                0x0000000000000000       0xd0 src/XPerienceEnhanced2.c.7.o
+ .debug_aranges
+                0x00000000000000d0       0x18 appinfo.auto.c.7.o
+ .debug_aranges
+                0x00000000000000e8       0x20 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x0000000000000108       0x20 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+ .debug_aranges
+                0x0000000000000128       0x20 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+
+.debug_ranges   0x0000000000000000      0x4a8
+ .debug_ranges  0x0000000000000000      0x4a8 src/XPerienceEnhanced2.c.7.o
+
+.debug_line     0x0000000000000000      0xa59
+ .debug_line    0x0000000000000000      0x58d src/XPerienceEnhanced2.c.7.o
+ .debug_line    0x000000000000058d      0x130 appinfo.auto.c.7.o
+ .debug_line    0x00000000000006bd      0x20a /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x00000000000008c7      0x10c /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+ .debug_line    0x00000000000009d3       0x86 /Users/wolfgangmeyerle/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+
+.debug_str      0x0000000000000000     0x12ef
+ .debug_str     0x0000000000000000     0x1177 src/XPerienceEnhanced2.c.7.o
+                                       0x124f (size before relaxing)
+ .debug_str     0x0000000000001177      0x178 appinfo.auto.c.7.o
+                                        0x2a7 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x24c
+ .debug_frame   0x0000000000000000      0x24c src/XPerienceEnhanced2.c.7.o
